@@ -1,23 +1,35 @@
 export const homeAbout = [
   {
     id: 1,
-    cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-    title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    cover: "https://img.icons8.com/dotty/80/000000/brain.png",
+    title: "AI-Powered Virtual Learning",
+    desc: "Personalized education through digital platforms, gamification & interactive learning tools.",
   },
   {
-    id: 1,
-    cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    id: 2,
+    cover: "https://img.icons8.com/ios/80/000000/innovation.png",
+    title: "Youth Skilling & Innovation Hubs",
+    desc: "Training young people in app development, educational game design, animation, and content creation.",
   },
   {
-    id: 1,
-    cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-    title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    id: 3,
+    cover: "https://img.icons8.com/ios/80/000000/wifi.png",
+    title: "Affordable Internet & Digital Devices",
+    desc: "Ensuring schools & low-income communities have access to technology.",
   },
-]
+  {
+    id: 4,
+    cover: "https://img.icons8.com/ios/80/000000/e-learning.png",
+    title: "Digital Content Marketplace",
+    desc: "A one-stop platform for e-learning materials tailored for Ugandan students & educators.",
+  },
+  {
+    id: 5,
+    cover: "https://img.icons8.com/ios/80/000000/technical-support.png",
+    title: "IT Support for Schools",
+    desc: "Helping institutions integrate technology effectively into the classroom.",
+  },
+];
 export const awrapper = [
   {
     cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
